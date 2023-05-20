@@ -11,10 +11,10 @@ setuptools.setup(
     description="Library providing AWS service integration for Python",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='https://github.com/prioritypower/aws_python_utils',
+    url='https://github.com/mmccollom/aws_pylib',
     project_urls={
-        "Bug Tracker": "https://github.com/prioritypower/aws_python_utils/issues"
+        "Bug Tracker": "https://github.com/mmccollom/aws_pylib/issues"
     },
-    packages=['aws_util'],
+    packages=['aws_pylib'],
     install_requires=[],
 )
